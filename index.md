@@ -4,10 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
-title: Portfolio
-layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
 ---
