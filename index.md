@@ -27,31 +27,34 @@ Java: ⭐⭐⭐⭐
 SQL: ⭐⭐⭐⭐
 
 # Timeline
-• Spring 2023 – Graduated High School (Patrick F. Taylor)  
+•  Spring 2023 – Graduated High School (Patrick F. Taylor)  
 │  
-• Fall 2023   – Started LSU - Computer Science Major  
+•  Fall 2023   – Started LSU - Computer Science Major  
 │  
-• Spring 2024 – Added Mathematics Minor  
+•  Spring 2024 – Added Mathematics Minor  
 │  
-• Spring 2025 – Joined RISE Lab  
+•  Spring 2025 – Joined RISE Lab  
 │ (Worked on Autonomous Robot Navigation)  
 │  
-• Fall 2025   – Will be working on Robotstudio within RISE Lab
+•  Fall 2025   – Will be working on Robotstudio within RISE Lab
 
 # Projects
-[Portfolio](https://github.com/yourusername/portfolio)  
-*My personal website built with Jekyll.*
 
-[C++ Game Engine](https://github.com/yourusername/cpp-game-engine)  
-*Simple 2D engine in C++.*
+[Withdrawal](https://github.com/CSC-3380-Spring-2025/Team-27)  
+*A 3D first person Horror Game built within Unreal Engine 5 using C++. The game contain classic horror elements like eerie sounds, dim lighting, and creaking movement all while the player tries to solve a set of puzzles to move on to the next level.*
 
-[Java App](https://github.com/yourusername/java-app)  
-*Example Java project.*
+[Coffee Shop Database](https://github.com/iwasella/aquarium-database-project)  
+*A mock database built using SQLite and Python for a coffee shop establishment*
 
-[Node.js App](https://github.com/yourusername/nodejs-app)  
-*Backend project using Node.js.*
+[Whirl](https://github.com/ghebert3/4330-Group-Project)  
+*An app built using Figma, React Native, Expo Go, Supabase, SQL, and Javascript. The app help LSU students to find and make connections with others, serving as a space where reaching out first will feel easier when breaking the ice. Users can connect by a swiping system, book activities together, post memorable moments, and chat about all kind of things.*
 
-[Ruby CLI](https://github.com/yourusername/ruby-todo-cli)  
-*Command-line task manager in Ruby.*
+[Real-Estate AI Prediction Model](https://github.com/AmyG-LSU/Final-4444)
+*An AI Model built with Python that allow users to predict home values within Louisiana for the next 10 years. The AI Model is trained using data from 2014-2024 for crime rate, school rating, median household income, home values, and interest rate for each parish within Louisiana. With an LSTM neural network and a gradient descent algorithm named Catboost, the AI model is tested on accuracy to ensure it can be used by future investors.*
+
+
+
+
+
 
 
