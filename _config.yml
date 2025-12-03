@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Student Portfolio for a Computer Science Major with Concentration in Software Engineer  
 github_username: NguyenVu2005
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -61,7 +61,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NguyenVu2005"
-
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:nguyentonyvu05@gmail.com"
 footer:
   links:
     - label: "GitHub"
@@ -70,5 +72,8 @@ footer:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/nguyen-vu05/"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:nguyentonyvu05@gmail.com"
 
 
