@@ -58,12 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Nguyen Vu"
   avatar : "/assets/images/IMG_5637.jpg"
   bio    : "Undergraduate LSU Student pursuing a B.S. in Computer Science and Minor in Mathematics  "
   links:
     - label: "Website"
-      icon: "fa-linkedin"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/nguyen-vu05/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Website"
-      icon: "fa-linkedin"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/nguyen-vu05/"
 
 defaults:
