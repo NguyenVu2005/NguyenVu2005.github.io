@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: "About Me"
 header:
   image: /assets/images/Grey.jpg
 ---
-# About Me
 Im a junior at LSU studying in Computer Science with a concentration in Software Engineering. What I love most about this field is that its always ever changing, meaning there's always something to learn everyday. Being able to build your vision from scratch and seeing it in practice is a feeling that never gets old. As of right now, my interest are leaning toward AI developement and Robotics as I find it facisnating how they can help turn tasks that used to be demanding to become more minimal. 
 
 # Education
