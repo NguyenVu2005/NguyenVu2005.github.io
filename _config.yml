@@ -81,18 +81,5 @@ footer:
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
       url: "tel:+15044186912"
-  main:
-  - title: "GitHub"
-    url: "https://github.com/"
-    icon: "fab fa-fw fa-github"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/nguyen-vu05/"
-    icon: "fa-brands fa-linkedin-in"
-  - title: "Email"
-    url: "mailto:nguyentonyvu05@gmail.com"
-    icon: "fas fa-solid fa-envelope"
-  - title: "Phone"
-    url: "tel:+15044186912"
-    icon: "fas fa-fw fa-phone"
-
+ 
 
