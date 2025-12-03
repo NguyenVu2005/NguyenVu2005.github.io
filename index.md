@@ -22,21 +22,21 @@ Python: ⭐⭐⭐⭐⭐
 C++: ⭐⭐⭐⭐  
 C: ⭐⭐⭐  
 Node.js: ⭐⭐⭐  
-Ruby: ⭐⭐⭐ 
+Ruby: ⭐⭐⭐
 Java: ⭐⭐⭐⭐
 SQL: ⭐⭐⭐⭐
 
 # Timeline
-Spring 2023  Graduated High School (Patrick F. Taylor)
-|
-Fall 2023    Started LSU - Computer Science Major
-|
-Spring 2024  Added Mathematics Minor
-|
-Spring 2025  Joined RISE Lab (Worked on analyzing data for Autonomous Robot Navigation)
-|            
-Fall 2025    Will be working on Robotstudio within RISE Lab 
+• Spring 2023 – Graduated High School (Patrick F. Taylor)  
+│  
+• Fall 2023   – Started LSU - Computer Science Major  
+│  
+• Spring 2024 – Added Mathematics Minor  
+│  
+• Spring 2025 – Joined RISE Lab (Worked on analyzing data for Autonomous Robot Navigation)  
+│  
+• Fall 2025   – Will be working on Robotstudio within RISE Lab
 
-#Projects
+# Projects
 
 
