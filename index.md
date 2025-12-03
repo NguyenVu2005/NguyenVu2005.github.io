@@ -3,11 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-title: "Welcome"
+title: "Welcome to My Portfolio"
 author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/your-image.jpg
-excerpt: "Your tagline can go here"
+excerpt: "B.S in Computer Science with a Minor in Mathematics"
 ---
+
+Testing testing testing
