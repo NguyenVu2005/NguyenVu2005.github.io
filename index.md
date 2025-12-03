@@ -38,13 +38,13 @@ SQL: ⭐⭐⭐⭐
 │  
 •  Fall 2025   – Will be working on Robotstudio within RISE Lab
 
-# Projects
+# Projects (Joint with other students)
 
 [Withdrawal](https://github.com/CSC-3380-Spring-2025/Team-27)  
 *A 3D first person Horror Game built within Unreal Engine 5 using C++. The game contain classic horror elements like eerie sounds, dim lighting, and creaking movement all while the player tries to solve a set of puzzles to move on to the next level.*
 
 [Coffee Shop Database](https://github.com/iwasella/aquarium-database-project)  
-*A mock database built using SQLite and Python for a coffee shop establishment*
+*A mock database with a CLI built using SQLite and Python for a coffee shop establishment. The CLI consist of 6 interfaces for the menu, employee, customer, reservation, order, and inventory. It allow users to add, delete, update, and view data for each of the interfaces, mimicking a real establishment.*
 
 [Whirl](https://github.com/ghebert3/4330-Group-Project)  
 *An app built using Figma, React Native, Expo Go, Supabase, SQL, and Javascript. The app help LSU students to find and make connections with others, serving as a space where reaching out first will feel easier when breaking the ice. Users can connect by a swiping system, book activities together, post memorable moments, and chat about all kind of things.*
