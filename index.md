@@ -22,8 +22,8 @@ Python: ⭐⭐⭐⭐⭐
 C++: ⭐⭐⭐⭐  
 C: ⭐⭐⭐  
 Node.js: ⭐⭐⭐  
-Ruby: ⭐⭐⭐
-Java: ⭐⭐⭐⭐
+Ruby: ⭐⭐⭐  
+Java: ⭐⭐⭐⭐  
 SQL: ⭐⭐⭐⭐
 
 # Timeline
@@ -33,10 +33,24 @@ SQL: ⭐⭐⭐⭐
 │  
 • Spring 2024 – Added Mathematics Minor  
 │  
-• Spring 2025 – Joined RISE Lab (Worked on analyzing data for Autonomous Robot Navigation)  
+• Spring 2025 – Joined RISE Lab (Worked on Autonomous Robot Navigation)  
 │  
 • Fall 2025   – Will be working on Robotstudio within RISE Lab
 
 # Projects
+[Portfolio](https://github.com/yourusername/portfolio)  
+*My personal website built with Jekyll.*
+
+[C++ Game Engine](https://github.com/yourusername/cpp-game-engine)  
+*Simple 2D engine in C++.*
+
+[Java App](https://github.com/yourusername/java-app)  
+*Example Java project.*
+
+[Node.js App](https://github.com/yourusername/nodejs-app)  
+*Backend project using Node.js.*
+
+[Ruby CLI](https://github.com/yourusername/ruby-todo-cli)  
+*Command-line task manager in Ruby.*
 
 
