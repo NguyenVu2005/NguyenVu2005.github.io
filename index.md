@@ -49,7 +49,7 @@ SQL: ⭐⭐⭐⭐
 [Whirl](https://github.com/ghebert3/4330-Group-Project)  
 *An app built using Figma, React Native, Expo Go, Supabase, SQL, and Javascript. The app help LSU students to find and make connections with others, serving as a space where reaching out first will feel easier when breaking the ice. Users can connect by a swiping system, book activities together, post memorable moments, and chat about all kind of things.*
 
-[Real-Estate AI Prediction Model](https://github.com/AmyG-LSU/Final-4444)
+[Real-Estate AI Prediction Model](https://github.com/AmyG-LSU/Final-4444)  
 *An AI Model built with Python that allow users to predict home values within Louisiana for the next 10 years. The AI Model is trained using data from 2014-2024 for crime rate, school rating, median household income, home values, and interest rate for each parish within Louisiana. With an LSTM neural network and a gradient descent algorithm named Catboost, the AI model is tested on accuracy to ensure it can be used by future investors.*
 
 
