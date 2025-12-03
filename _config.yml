@@ -64,6 +64,9 @@ author:
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:nguyentonyvu05@gmail.com"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+15044186912"
 footer:
   links:
     - label: "GitHub"
@@ -75,5 +78,8 @@ footer:
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:nguyentonyvu05@gmail.com"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+15044186912"
 
 
